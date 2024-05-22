@@ -1,7 +1,6 @@
 ## Status das Bases em um Servidor
 
-_Procedure_ em T-SQL que faz uma consulta no sistema de gerenciamento de banco de dados e retorna o status de cada base.
-Um relatório HTML será gerado baseado no resultado da consulta da _procedure_.
+_Procedure_ em T-SQL responsável por realizar consultas no sistema de gerenciamento de banco de dados e por retornar o status de cada base de dados. Um relatório em formato HTML será gerado com base nos resultados obtidos pela _procedure_.
 
 ## Bases ONLINE
 
