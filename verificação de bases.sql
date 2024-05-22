@@ -32,7 +32,7 @@ BEGIN
     <style type="text/css">
         body { font-family: Arial, sans-serif; }
         img { width: 100%; height: auto; }
-		.online{ color: green}
+	.online{ color: green}
     </style>
 </head>
 <body>
@@ -40,8 +40,8 @@ BEGIN
 	<h4>Verificação do Status das Bases</h4>
 	<br></br>
     <p>Todas as bases estão <span class="online">ONLINE</span>.</p>
-	<br></br>
-	 <img src="caminho para a imagem.png">
+        <br></br>
+		<img src="caminho para a imagem.png">
 </body>
 </html>';
     END
@@ -56,7 +56,7 @@ BEGIN
         th, td { border: 1px solid black; padding: 5px; text-align: left; }
         th { background-color: #f2f2f2; }
         img { width: 100%; height: auto; }
-		.offline{ color: red}
+	.offline{ color: red}
 
     </style>
 </head>
